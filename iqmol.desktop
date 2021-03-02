@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=2.14.0
+Type=Application
+Name=IQmol
+GenericName=Molecule Editor
+Terminal=false
+Exec=iqmol %F
+Icon=/usr/share/icons/IQmol.icns
+Categories=Chemistry;Science
+Comment=Qchem-devoted molecule viewer and editor
+StartupNotify=true
