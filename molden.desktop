@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=6.8
+Type=Application
+Name=Molden
+GenericName=Molecule Editor and Viewer
+Terminal=false
+Exec=/opt/molden/bin/gmolden %F
+Icon=/usr/share/icons/molden.png
+Categories=Chemistry;Science
+Comment=Powerful molecule viewer and editor, that understands various formats
+StartupNotify=true
