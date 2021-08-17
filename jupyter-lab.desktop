@@ -2,9 +2,8 @@
 Name=Jupyter Lab
 Comment=Start Jupyter Lab server
 Icon=jupyter-lab
-Exec=/opt/google/chrome/google-chrome --app=http://localhost:8888/lab
 Type=Application
+Exec=google-chrome --app=http://localhost:8888/lab
 Categories=Development;
 StartupNotify=true
 StartupWMClass=jupyter-lab
-Actions=open-browser
